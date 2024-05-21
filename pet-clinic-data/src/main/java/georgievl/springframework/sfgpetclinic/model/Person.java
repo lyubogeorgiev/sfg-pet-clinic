@@ -1,4 +1,4 @@
-package georgievl.springframework.model;
+package georgievl.springframework.sfgpetclinic.model;
 
 public class Person {
     private String firstName;
